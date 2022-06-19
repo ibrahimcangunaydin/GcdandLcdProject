@@ -1,4 +1,4 @@
-# GCD and LCD Project
+# GCD and LCM Project
 
 * smallOne and bigOne variables are used to reduce the number of loops
 in while loops. 
